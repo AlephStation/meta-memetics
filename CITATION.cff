@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Meta-Memetics: Engineering Belief in Networked Environments"
+message: "If you use this work, please cite it."
+type: report
+authors:
+  - family-names: "Station"
+    given-names: "Aleph"
+date-released: "2025-11-12"
+doi: "10.5281/zenodo.17585600"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17585600
+repository-code: "https://github.com/alephstation/meta-memetics"
+license: "CC-BY-NC-4.0"
