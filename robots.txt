@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alephstation.github.io/meta-memetics/sitemap.xml
